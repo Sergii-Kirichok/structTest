@@ -2,8 +2,7 @@ package main
 
 import (
 	"fmt"
-  //Nado zaimportit... 
-  "repl.it/languages/go#module/module"
+  "github.com/Sergii-Kirichok/structTest/module"
 )
 
 type Modules struct {
